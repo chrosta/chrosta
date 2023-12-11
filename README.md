@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 (i'm trying it)!
+
+🔭 I’m currently working on this profile README document.
 
 <!--
 **chrosta/chrosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
