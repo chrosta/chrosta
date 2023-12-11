@@ -1,4 +1,4 @@
-### Hi there 👋!<h2></h2>
+### Hi there! 👋<h2></h2>
 
 🔭 I’m currently working on this profile README document.
 
