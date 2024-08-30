@@ -3,9 +3,13 @@
 My big "problem" is that i have a large number of long pinned and fixed bookmarks open in 3 kinds of browsers, so the list here is a way to save them, share them (present what interests me) and reduce (maybe, i'd like to believe it) them (thank you for your attention):
 - What is Fedora Siverblue (https://www.dvlv.co.uk/pages/a-beginners-guide-to-fedora-silverblue.html), great, short and to the point.
 - How to use RPM Fusion (https://rpmfusion.org/Configuration), free and nonfree repositories.
+- Epic AOC knowledges (https://www.reddit.com/r/adventofcode/comments/z0vmy0/350_stars_a_categorization_and_megaguide/).
 - Awesome web GUI framework (https://nicegui.io/), i like to combine it with ORM framework (https://www.sqlalchemy.org/).
 - Port extensions to GNOME shell 45 (https://gjs.guide/extensions/upgrading/gnome-shell-45.html).
 - Colors (https://randomcolorpalettes.com/) and (https://quasar.dev/style/color-palette).
+- Network manager and openconnect (https://gitlab.gnome.org/GNOME/NetworkManager-openconnect/-/issues/91).
+- Regular expression (https://www.regularnivyrazy.info/shrnuti-syntaxe.html).
+- Emoji (https://emojipedia.org/).
 
 <!--
 **chrosta/chrosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
