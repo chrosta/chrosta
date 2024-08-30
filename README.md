@@ -1,9 +1,9 @@
 ### Hi there! 👋<h2></h2>
 
-💬 I have a bambilion fixed bookmarks open in 3 kinds of browsers, the list here is a way to save them, share them (present what interests me) and reduce them:
+My big "problem" is that i have a large number of long pinned and fixed bookmarks open in 3 kinds of browsers, so the list here is a way to save them, share them (present what interests me) and reduce (maybe, i'd like to believe it) them (thank you for your attention):
 - What is Fedora Siverblue (https://www.dvlv.co.uk/pages/a-beginners-guide-to-fedora-silverblue.html), great, short and to the point.
 - How to use RPM Fusion (https://rpmfusion.org/Configuration), free and nonfree repositories.
-- Totally awesome web GUI framework (https://nicegui.io/), i like to combine it with ORM framework (https://www.sqlalchemy.org/).
+- Awesome web GUI framework (https://nicegui.io/), i like to combine it with ORM framework (https://www.sqlalchemy.org/).
 
 <!--
 **chrosta/chrosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
