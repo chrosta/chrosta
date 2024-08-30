@@ -4,6 +4,8 @@ My big "problem" is that i have a large number of long pinned and fixed bookmark
 - What is Fedora Siverblue (https://www.dvlv.co.uk/pages/a-beginners-guide-to-fedora-silverblue.html), great, short and to the point.
 - How to use RPM Fusion (https://rpmfusion.org/Configuration), free and nonfree repositories.
 - Awesome web GUI framework (https://nicegui.io/), i like to combine it with ORM framework (https://www.sqlalchemy.org/).
+- Port extensions to GNOME shell 45 (https://gjs.guide/extensions/upgrading/gnome-shell-45.html).
+- Colors (https://randomcolorpalettes.com/) and (https://quasar.dev/style/color-palette).
 
 <!--
 **chrosta/chrosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
