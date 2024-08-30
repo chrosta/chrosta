@@ -9,6 +9,7 @@ My big "problem" is that i have a large number of long pinned and fixed bookmark
 - How to use RPM Fusion (https://rpmfusion.org/Configuration), free and nonfree repositories.
 - Colors (https://randomcolorpalettes.com/) and (https://quasar.dev/style/color-palette).
 - Regular expression (https://www.regularnivyrazy.info/shrnuti-syntaxe.html).
+- I have (https://github.com/ramaureirac/thinkpad-e14-linux) too.
 - Emoji (https://emojipedia.org/).
 
 <!--
