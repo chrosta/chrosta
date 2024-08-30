@@ -1,12 +1,12 @@
 ### Hi there! 👋<h2></h2>
 
-🔭 I’m currently working on this profile README document.
+💬 I have a bambilion fixed bookmarks open in 3 kinds of browsers, the list here is a way to save them, share them (present what interests me) and reduce them:
+- What is Fedora Siverblue (https://www.dvlv.co.uk/pages/a-beginners-guide-to-fedora-silverblue.html), great, short and to the point.
+- How to use RPM Fusion (https://rpmfusion.org/Configuration), free and nonfree repositories.
 
 <!--
 **chrosta/chrosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
