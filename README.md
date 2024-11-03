@@ -3,6 +3,7 @@
 My big "problem" is that i have a large number of long pinned and fixed bookmarks open in 3 kinds of browsers, so the list here is a way to save them, share them (present what interests me) and reduce (maybe, i'd like to believe it) them (thank you for your attention):
 - How to [update Lenovo BIOS from Linux USB stick pen](https://www.cyberciti.biz/faq/update-lenovo-bios-from-linux-usb-stick-pen/) and [using secure boot](https://discussion.fedoraproject.org/t/secure-boot-not-installed-when-installing-fresh-fedora-35-silverblue/74175).
 - Lenovo support and [BIOS/UEFI for Thinkpad E14 gen2](https://pcsupport.lenovo.com/cz/cs/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-e14-gen-2-type-20ta-20tb/20ta/20ta0033ck/pf20e942/downloads/driver-list/component?name=BIOS%2FUEFI).
+- How to [backup and restore](https://fedoramagazine.org/backup-and-restore-toolboxes-with-podman/) Toolbox containers (with Podman).
 - What is [Fedora Siverblue](https://www.dvlv.co.uk/pages/a-beginners-guide-to-fedora-silverblue.html), great, short and to the point.
 - How to upgrading [port extensions to GNOME shell 45](https://gjs.guide/extensions/upgrading/gnome-shell-45.html).
 - Network manager and openconnect [VPN parameters problem](https://gitlab.gnome.org/GNOME/NetworkManager-openconnect/-/issues/91).
