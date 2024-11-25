@@ -5,6 +5,7 @@ My big "problem" is that i have a large number of long pinned and fixed bookmark
 - Lenovo support and [BIOS/UEFI for Thinkpad E14 gen2](https://pcsupport.lenovo.com/cz/cs/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-e14-gen-2-type-20ta-20tb/20ta/20ta0033ck/pf20e942/downloads/driver-list/component?name=BIOS%2FUEFI).
 - How to [backup and restore](https://fedoramagazine.org/backup-and-restore-toolboxes-with-podman/) Toolbox containers (with Podman).
 - What is [Fedora Siverblue](https://www.dvlv.co.uk/pages/a-beginners-guide-to-fedora-silverblue.html), great, short and to the point.
+- Linux [desktop migration tool](https://codeberg.org/sesivany/linux-desktop-migration-tool) and how use it.
 - How to upgrading [port extensions to GNOME shell 45](https://gjs.guide/extensions/upgrading/gnome-shell-45.html).
 - Network manager and openconnect [VPN parameters problem](https://gitlab.gnome.org/GNOME/NetworkManager-openconnect/-/issues/91).
 - A [350 stars a categorization and megaguide](https://www.reddit.com/r/adventofcode/comments/z0vmy0/350_stars_a_categorization_and_megaguide/) for Advent of Code.
