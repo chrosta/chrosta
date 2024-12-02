@@ -10,6 +10,7 @@ My big "problem" is that i have a large number of long pinned and fixed bookmark
 - Network manager and openconnect [VPN parameters problem](https://gitlab.gnome.org/GNOME/NetworkManager-openconnect/-/issues/91).
 - A [350 stars a categorization and megaguide](https://www.reddit.com/r/adventofcode/comments/z0vmy0/350_stars_a_categorization_and_megaguide/) for Advent of Code.
 - Awesome web GUI framework [NiceGUI](https://nicegui.io/), i like to combine it with ORM framework [SQLAlchemy](https://www.sqlalchemy.org/).
+- I like [CherryPy](https://cherrypy.dev/) (from Python world) and [Express](https://expressjs.com/) (from JavaScript world) web frameworks.
 - How to use [RPM fusion configuration](https://rpmfusion.org/Configuration), for free and nonfree repositories.
 - Color [random paletes](https://randomcolorpalettes.com/) and [Quasar framework](https://quasar.dev/style/color-palette).
 - I like [Emojipedia](https://emojipedia.org/) (for finding emoji chars).
