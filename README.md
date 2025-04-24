@@ -16,6 +16,7 @@ My big "problem" is that i have a large number of long pinned and fixed bookmark
 - This [Agile Fingers](https://agilefingers.com/) and [Monkey Type](https://monkeytype.com/) is my favorite webs for keyboard typing trainig.
 - Color [random paletes](https://randomcolorpalettes.com/) and [Quasar framework](https://quasar.dev/style/color-palette).
 - I like [Emojipedia](https://emojipedia.org/) (for finding emoji chars).
+- How to [own Bash TAB completion](https://www.gnu.org/software/gnuastro/manual/html_node/Bash-TAB-completion-tutorial.html) tutorial.
 - How to [build own RPM package](https://opensource.com/article/18/9/how-build-rpm-packages) tutorial.
 - I have [Thinkpad E14 on Linux](https://github.com/ramaureirac/thinkpad-e14-linux) too.
 - Small [regular expression tutorial](https://www.regularnivyrazy.info/shrnuti-syntaxe.html).
