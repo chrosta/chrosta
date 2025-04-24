@@ -13,8 +13,10 @@ My big "problem" is that i have a large number of long pinned and fixed bookmark
 - I like [CherryPy](https://cherrypy.dev/) (from Python world) and [Express](https://expressjs.com/) (from JavaScript world) web frameworks.
 - This is [Django](https://www.djangoproject.com/) and this is [Sails](https://sailsjs.com/) (as Django for Node.js).
 - How to use [RPM fusion configuration](https://rpmfusion.org/Configuration), for free and nonfree repositories.
+- This [Agile Fingers](https://agilefingers.com/) and [Monkey Type](https://monkeytype.com/) is my favorite webs for keyboard typing trainig.
 - Color [random paletes](https://randomcolorpalettes.com/) and [Quasar framework](https://quasar.dev/style/color-palette).
 - I like [Emojipedia](https://emojipedia.org/) (for finding emoji chars).
+- How to [build own RPM package](https://opensource.com/article/18/9/how-build-rpm-packages) tutorial.
 - I have [Thinkpad E14 on Linux](https://github.com/ramaureirac/thinkpad-e14-linux) too.
 - Small regular expression [tutorial](https://www.regularnivyrazy.info/shrnuti-syntaxe.html).
 
