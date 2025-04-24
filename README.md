@@ -18,7 +18,7 @@ My big "problem" is that i have a large number of long pinned and fixed bookmark
 - I like [Emojipedia](https://emojipedia.org/) (for finding emoji chars).
 - How to [build own RPM package](https://opensource.com/article/18/9/how-build-rpm-packages) tutorial.
 - I have [Thinkpad E14 on Linux](https://github.com/ramaureirac/thinkpad-e14-linux) too.
-- Small regular expression [tutorial](https://www.regularnivyrazy.info/shrnuti-syntaxe.html).
+- Small [regular expression tutorial](https://www.regularnivyrazy.info/shrnuti-syntaxe.html).
 
 <!--
 **chrosta/chrosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
