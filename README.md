@@ -14,10 +14,10 @@ My big "problem" is that i have a large number of long pinned and fixed bookmark
 - This is [Django](https://www.djangoproject.com/) and this is [Sails](https://sailsjs.com/) (as Django for Node.js).
 - How to use [RPM fusion configuration](https://rpmfusion.org/Configuration), for free and nonfree repositories.
 - This [Agile Fingers](https://agilefingers.com/) and [Monkey Type](https://monkeytype.com/) is my favorite webs for keyboard typing trainig.
+- How to [OS](https://opensource.com/article/18/9/how-build-rpm-packages) and [RH](https://www.redhat.com/en/blog/create-rpm-package) tutorial for build own RPM package.
 - Color [random paletes](https://randomcolorpalettes.com/) and [Quasar framework](https://quasar.dev/style/color-palette).
 - I like [Emojipedia](https://emojipedia.org/) (for finding emoji chars).
 - How to [own Bash TAB completion](https://www.gnu.org/software/gnuastro/manual/html_node/Bash-TAB-completion-tutorial.html) tutorial.
-- How to [build own RPM package](https://opensource.com/article/18/9/how-build-rpm-packages) tutorial.
 - I have [Thinkpad E14 on Linux](https://github.com/ramaureirac/thinkpad-e14-linux) too.
 - Small [regular expression tutorial](https://www.regularnivyrazy.info/shrnuti-syntaxe.html).
 
